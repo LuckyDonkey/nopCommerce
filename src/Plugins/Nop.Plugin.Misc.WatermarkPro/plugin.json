@@ -1,0 +1,11 @@
+{
+  "Group": "Plugins Misc",
+  "FriendlyName": "Image Watermark Pro",
+  "SystemName": "Misc.WatermarkPro",
+  "Version": "0.0.1",
+  "SupportedVersions": [ "4.80" ],
+  "Author": "Upsellfly",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.Misc.WatermarkPro.dll",
+  "Description": "This plugin allows you to add a watermark to the images in the store (Products, Categories, Manufacturers)"
+}
